@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - "main"
-    paths: "Frontend/**"
+    paths: "Frontend"
   workflow_dispatch:
 
 permissions:
